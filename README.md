@@ -78,12 +78,35 @@ OneStepGen reduces overwhelm through a **guided four-step workflow**, **AI-assis
 
 ---
 
+## My Contributions
+
+This was a team capstone project. My main contributions focused on frontend workflow integration, client-side task management, and cloud deployment.
+
+- Implemented page routing and multi-step workflow navigation
+- Developed task creation, prioritisation, editing, and deletion logic
+- Built session history features using browser `localStorage`
+- Contributed to frontend integration across the AI task breakdown, planning, focus, and completion workflow
+- Worked on cloud deployment and domain configuration
+- Contributed to the serverless deployment setup using API Gateway and AWS Lambda
+
+---
+
+## Project Status
+
+This project was developed as a university capstone project and is no longer actively maintained.
+
+The repository is preserved as a portfolio and reference implementation. Some external services, API endpoints, environment variables, or deployment configurations may no longer be active.
+
+The local setup instructions below reflect the original development environment and may require minor updates depending on current dependency versions and API availability.
+
+---
+
 ## How to Run
 
 ### Frontend (repository root)
 
 ```bash
-git clone https://github.com/LongZhouuu/OneStepGen.git
+git clone https://github.com/cheetahelegence/OneStepGen.git
 cd OneStepGen
 npm install
 npm run dev
